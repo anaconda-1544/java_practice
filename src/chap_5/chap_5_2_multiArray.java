@@ -8,6 +8,11 @@ public class chap_5_2_multiArray { //다차원 배열
 		String[] seatB = {"B1", "B2", "B3", "B4"};		
 		String[] seatC = {"C1", "C2", "C3", "C4"};
 		
+		System.out.println(seatA[2]);
+		System.out.println(seatB[2]);
+		System.out.println(seatC[2]);
+		
+		
 		String[][] seats = new String[][] {
 			{"A1", "A2", "A3", "A4"},
 			{"B1", "B2", "B3", "B4"},

@@ -36,7 +36,7 @@ public class chap_1 {
 		
 		System.out.println(l);
 		
-		short s =  3553 ;
+		//short s =  3553 ;
 
 		
 	}
