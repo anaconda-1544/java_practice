@@ -27,7 +27,7 @@ public class chap_3_1 {
 		System.out.println(s.trim()); //공백 제거
 		
 		
-
+		
 		
 	}
 }
